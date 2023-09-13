@@ -33,7 +33,7 @@ function calculateTime() {
 		wish = 'Good Afternoon';
 	} else{
 		wish = 'Good Evening';
-		heroHeader.style.backgroundImage = "url(imgs/hero/blue.svg)";
+		heroHeader.style.backgroundImage = "url(blue.svg)";
 	}
 	displayWishMessage();
 }
